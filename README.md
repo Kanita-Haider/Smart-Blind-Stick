@@ -4,7 +4,7 @@ Project Name - Smart Blind Stick using Arduino
 
 Course Code - EEE-2422
 
-Course Name - 
+Course Name - Electrical Drives and Instrumentation Lab
 
 Semester - 5th
 
