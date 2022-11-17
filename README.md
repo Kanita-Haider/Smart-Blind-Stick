@@ -1,6 +1,6 @@
-# EEE-Project--H
+# Project Name - Smart Blind Stick using Arduino
 
-Project Name - Smart Blind Stick using Arduino
+
 
 Course Code - EEE-2422
 
